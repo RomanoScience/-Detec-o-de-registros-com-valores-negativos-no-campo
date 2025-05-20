@@ -19,7 +19,7 @@
 
 ## 📷 Exemplo de Gráfico Gerado
 
-> ![Exemplo de Gráfico](images/grafico_valores_venda.png)
+https://github.com/RomanoScience/Deteccao-de-precos-negativos/blob/main/Analise_anomalias.png
 
 
 ## 👨‍🎓 Sobre o Autor
